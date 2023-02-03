@@ -4,3 +4,4 @@
 4
 지역저장소에서 변경하고 push시 원격에선 에러
 git mv firsteHome.txt firstHome.txt
+git mv
